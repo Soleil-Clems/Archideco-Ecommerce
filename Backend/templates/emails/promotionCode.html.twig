@@ -1,0 +1,46 @@
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f4f4f4; }
+        .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; }
+        .header { background-color: #1E4347; color: #ffffff; padding: 20px; text-align: center; }
+        .content { padding: 30px; }
+        .footer { background-color: #639D87; color: #ffffff; text-align: center; padding: 10px; font-size: 12px; }
+        h1 { color: #1E4347; }
+        .btn { display: inline-block; background-color: #639D87; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+        .signature { font-style: italic; color: #666; }
+    </style>
+    <div class="container">
+        <div class="header">
+            <h1 style="margin: 0; font-size: 28px;">Archideco</h1>
+            <p style="margin: 5px 0 0;">Votre partenaire en décoration d'intérieur</p>
+        </div>
+        
+        <div class="content">
+            <h2>Offre Spéciale pour vous {{ firstname }} {{ lastname }} !</h2>
+
+            
+            <p>Profitez dès maintenant de notre offre exclusive avec une remise de {{ value }}% sur votre prochaine commande en utilisant le code :</p>
+            
+            <p style="text-align: center; font-size: 20px; font-weight: bold; color: #1E4347;">{{ code }}</p>
+
+            <p style="text-align: center; margin-top: 30px;">
+                <a href="http://localhost:5173" class="btn">Utiliser mon code</a>
+            </p>
+
+           <p>
+            expiration le {{ expiration }}.
+           </p>
+
+            
+            <p>N'hésitez pas à nous contacter si vous avez des questions ou besoin de conseils pour votre projet de décoration.</p>
+            
+            <p class="signature">L'équipe Archideco</p>
+        </div>
+        
+        <div class="footer">
+            <p>&copy; 2024 Archideco. Tous droits réservés.</p>
+            <p>
+                <a href="#" style="color: #ffffff;">Mentions légales</a> | 
+                <a href="#" style="color: #ffffff;">Politique de confidentialité</a>
+            </p>
+        </div>
+    </div>

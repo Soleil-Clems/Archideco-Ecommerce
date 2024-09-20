@@ -1,0 +1,23 @@
+parameters:
+    # Si vous avez des paramètres globaux, vous pouvez les définir ici
+    # Exemple :
+    # some_parameter: 'some_value'
+
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+
+    # Définir les services avec autowiring et autoconfiguration par défaut
+    App\:
+        resource: '../src/'
+        exclude:
+            - '../src/DependencyInjection/'
+            - '../src/Entity/'
+            - '../src/Kernel.php'
+
+    # Configuration explicite de votre service JWTModifier
+    App\Service\JWTModifier:
+        tags:
+            - { name: 'kernel.event_listener', event: 'lexik_jwt_authentication.on_jwt_created', method: 'onJWTCreated' }

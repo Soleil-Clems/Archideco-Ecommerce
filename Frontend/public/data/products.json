@@ -1,0 +1,514 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Cuisines"
+    },
+    {
+      "id": 2,
+      "name": "Salles de bain"
+    },
+    {
+      "id": 3,
+      "name": "Salons"
+    },
+    {
+      "id": 4,
+      "name": "Gros électroménager"
+    },
+    {
+      "id": 5,
+      "name": "Petit électroménager"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+
+      "title": "Sobre",
+      "price": 1000,
+      "size": "petit"
+    },
+    {
+      "id": 2,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Eveil",
+      "price": 2000,
+      "size": "moyen"
+    },
+    {
+      "id": 3,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Rive Droite",
+      "price": 3000,
+      "size": "grand"
+    },
+    {
+      "id": 4,
+
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+
+      "title": "Charme",
+      "price": 4000,
+      "size": "petit"
+    },
+    {
+      "id": 5,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+
+      "title": "Chill",
+      "price": 5000,
+      "size": "moyen"
+    },
+    {
+      "id": 6,
+
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Express",
+      "price": 6000,
+      "size": "grand"
+    },
+    {
+      "id": 7,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 7000,
+      "size": "petit"
+    },
+    {
+      "id": 8,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+
+      "title": "Cacao",
+      "price": 8000,
+      "size": "moyen"
+    },
+    {
+      "id": 9,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+
+      "title": "Cacao",
+      "price": 9000,
+      "size": "grand"
+    },
+    {
+      "id": 10,
+
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 10000,
+      "size": "petit"
+    },
+    {
+      "id": 11,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 11000,
+      "size": "moyen"
+    },
+    {
+      "id": 12,
+      "categories_id": 1,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 12000,
+      "size": "grand"
+    },
+    {
+      "id": 13,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Sobre",
+      "price": 1000,
+      "size": "petit"
+    },
+    {
+      "id": 14,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Eveil",
+      "price": 2000,
+      "size": "moyen"
+    },
+    {
+      "id": 15,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Rive Droite",
+      "price": 3000,
+      "size": "grand"
+    },
+    {
+      "id": 16,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Charme",
+      "price": 4000,
+      "size": "petit"
+    },
+    {
+      "id": 17,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Chill",
+      "price": 5000,
+      "size": "moyen"
+    },
+    {
+      "id": 18,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Express",
+      "price": 6000,
+      "size": "grand"
+    },
+    {
+      "id": 19,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 7000,
+      "size": "petit"
+    },
+    {
+      "id": 20,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 8000,
+      "size": "moyen"
+    },
+    {
+      "id": 21,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 9000,
+      "size": "grand"
+    },
+    {
+      "id": 22,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 10000,
+      "size": "petit"
+    },
+    {
+      "id": 23,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 11000,
+      "size": "moyen"
+    },
+    {
+      "id": 24,
+      "categories_id": 2,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 12000,
+      "size": "grand"
+    },
+    {
+      "id": 25,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Sobre",
+      "price": 1000,
+      "size": "petit"
+    },
+    {
+      "id": 26,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Eveil",
+      "price": 2000,
+      "size": "moyen"
+    },
+    {
+      "id": 27,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Rive Droite",
+      "price": 3000,
+      "size": "grand"
+    },
+    {
+      "id": 28,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Charme",
+      "price": 4000,
+      "size": "petit"
+    },
+    {
+      "id": 29,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Chill",
+      "price": 5000,
+      "size": "moyen"
+    },
+    {
+      "id": 30,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Express",
+      "price": 6000,
+      "size": "grand"
+    },
+    {
+      "id": 31,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 7000,
+      "size": "petit"
+    },
+    {
+      "id": 32,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 8000,
+      "size": "moyen"
+    },
+    {
+      "id": 33,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 9000,
+      "size": "grand"
+    },
+    {
+      "id": 34,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 10000,
+      "size": "petit"
+    },
+    {
+      "id": 35,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 11000,
+      "size": "moyen"
+    },
+    {
+      "id": 36,
+      "categories_id": 3,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 12000,
+      "size": "grand"
+    },
+    {
+      "id": 37,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Sobre",
+      "price": 1000,
+      "size": "petit"
+    },
+    {
+      "id": 38,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Eveil",
+      "price": 2000,
+      "size": "moyen"
+    },
+    {
+      "id": 39,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Rive Droite",
+      "price": 3000,
+      "size": "grand"
+    },
+    {
+      "id": 40,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Charme",
+      "price": 4000,
+      "size": "petit"
+    },
+    {
+      "id": 41,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Chill",
+      "price": 5000,
+      "size": "moyen"
+    },
+    {
+      "id": 42,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Express",
+      "price": 6000,
+      "size": "grand"
+    },
+    {
+      "id": 43,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 7000,
+      "size": "petit"
+    },
+    {
+      "id": 44,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 8000,
+      "size": "moyen"
+    },
+    {
+      "id": 45,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 9000,
+      "size": "grand"
+    },
+    {
+      "id": 46,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 10000,
+      "size": "petit"
+    },
+    {
+      "id": 47,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 11000,
+      "size": "moyen"
+    },
+    {
+      "id": 48,
+      "categories_id": 4,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 12000,
+      "size": "grand"
+    },
+    {
+      "id": 49,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Sobre",
+      "price": 1000,
+      "size": "petit"
+    },
+    {
+      "id": 50,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Eveil",
+      "price": 2000,
+      "size": "moyen"
+    },
+    {
+      "id": 51,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Rive Droite",
+      "price": 3000,
+      "size": "grand"
+    },
+    {
+      "id": 52,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Charme",
+      "price": 4000,
+      "size": "petit"
+    },
+    {
+      "id": 53,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Chill",
+      "price": 5000,
+      "size": "moyen"
+    },
+    {
+      "id": 54,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Express",
+      "price": 6000,
+      "size": "grand"
+    },
+    {
+      "id": 55,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 7000,
+      "size": "petit"
+    },
+    {
+      "id": 56,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 8000,
+      "size": "moyen"
+    },
+    {
+      "id": 57,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 9000,
+      "size": "grand"
+    },
+    {
+      "id": 58,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 10000,
+      "size": "petit"
+    },
+    {
+      "id": 59,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 11000,
+      "size": "moyen"
+    },
+    {
+      "id": 60,
+      "categories_id": 5,
+      "image": "../src/assets/picture/cuisine1.png",
+      "title": "Cacao",
+      "price": 12000,
+      "size": "grand"
+    }
+  ]
+}
